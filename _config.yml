@@ -37,3 +37,5 @@ custom_header: false
 custom_nav_footer: false
 reverse: false
 navigation-menu: false
+nav-menu: false
+nav: false
