@@ -1,11 +1,11 @@
 
 ![GATE](/blog/img/gatecs.jpg "GATE")
 
-Dear Student,
+Dear _Student_,
 
  
 
-## Welcome to the GATE CS 2019 Online Video Course! This course has been designed by experts keeping in mind the aspirants preparing for the GATE Computer Science Exam 2019 & is available free of cost!
+#### Welcome to the GATE CS 2019 Online Video Course! This course has been designed by experts keeping in mind the aspirants preparing for the GATE Computer Science Exam 2019 & is available free of cost!
 
  
 Meet our Experts:
