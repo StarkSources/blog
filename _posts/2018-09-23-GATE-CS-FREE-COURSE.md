@@ -58,4 +58,6 @@ Happy Learning!
 
 #### Team Gradeup
 
+[Register here](https://gradeup.co/courses/gate-cse-video-lectures-free?openInBrowser=1&utm_medium=gate_cs&utm_source=email&utm_source=email&utm_medium=gate_cs)
+
   
