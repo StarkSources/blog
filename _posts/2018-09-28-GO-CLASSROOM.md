@@ -15,7 +15,7 @@ Even if you are joining late, you can adjust your schedule accordingly - most as
 
 Discrete Mathematics: Set Theory & Algebra: Sets; Relations; Functions; Mathematical Logic: Propositional Logic; First Order Logic.
 
-(http://classroom.gateoverflow.in/course/view.php?id=9)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=9)
 
 Webpage for Set Theory & Algebra
 
@@ -25,7 +25,7 @@ Webpage for Mathematical Logic
 
 Discrete Mathematics: Combinatorics; Counting; generating functions; recurrence relations.
 
-(http://classroom.gateoverflow.in/course/view.php?id=9)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=9)
 
 Webpage for Combinatory
 
@@ -35,7 +35,7 @@ Webpage for Combinatory
 
 Combinatorics; Counting; generating functions; recurrence relations.
 
-(http://classroom.gateoverflow.in/course/view.php?id=9)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=9)
 
 Webpage for Combinatory
 
@@ -51,7 +51,7 @@ Webpage for Set Theory & Algebra
 
 Digital Logic: Boolean algebra. Combinational circuits. Minimization. Number representations and computer arithmetic (fixed and floating point).
 
-(http://classroom.gateoverflow.in/course/view.php?id=8)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=8)
 
 Webpage for Digital Logic
 
@@ -61,7 +61,7 @@ Webpage for Digital Logic
 
 Digital Logic: Sequential circuits. 
 
-(http://classroom.gateoverflow.in/course/view.php?id=8)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=8)
 
 Webpage for Digital Logic
 
@@ -69,7 +69,7 @@ Webpage for Digital Logic
 
 Programming and Data Structures: Programming in C. Recursion. 
 
-(http://classroom.gateoverflow.in/course/view.php?id=14)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=14)
 
 Webpage for Programming
 
@@ -79,7 +79,7 @@ Webpage for Programming
 
 Programming and Data Structures: Arrays, stacks, queues, linked lists, trees, binary search trees, binary heaps, graphs.
 
-(http://classroom.gateoverflow.in/course/view.php?id=14)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=14)
 
 Webpage for Programming
 
@@ -89,7 +89,7 @@ Algorithms: Asymptotic worst case time and space complexity.
 
 Webpage for Algorithms
 
-(http://classroom.gateoverflow.in/course/view.php?id=2)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=2)
 
  
 
@@ -99,7 +99,7 @@ Algorithms: Searching, sorting, hashing. Algorithm design techniques: greedy, dy
 
 Webpage for Algorithms
 
-(http://classroom.gateoverflow.in/course/view.php?id=2)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=2)
 
 Verbal Ability: Finding appropriate word, reading passages, basic grammar usage
 
@@ -107,7 +107,7 @@ Logical Reasoning and Data Interpretation: Verbal reasoning ­ deriving conclusi
 
 Webpage for Verbal Ability
 
-(http://classroom.gateoverflow.in/course/view.php?id=16)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=16)
 
  
 
@@ -117,7 +117,7 @@ Algorithms: Graph search, minimum spanning trees, shortest paths.
 
 Webpage for Algorithms
 
-(http://classroom.gateoverflow.in/course/view.php?id=2)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=2)
 
  
 
@@ -127,7 +127,7 @@ Discrete Mathematics: Graph Theory: Connectivity; Matching, Colouring.
 
 Webpage for Graph Theory
 
-(http://classroom.gateoverflow.in/course/view.php?id=9)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=9)
 
 **September 3 - September 9**
 
@@ -135,7 +135,7 @@ Quantitative Aptitude: Ratios, speed­-time, directions, work­-time, clock, oth
 
 Webpage for Numerical Ability
 
-(http://classroom.gateoverflow.in/course/view.php?id=15)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=15)
 
 --------------------------------------- Break for a week, completing unsolved problems for GO PDF ---------------------------------------------
 
@@ -144,7 +144,7 @@ Webpage for Numerical Ability
 Probability: Random variables. Uniform, normal, exponential, poisson and binomial distributions. Mean, median, mode and standard deviation. Conditional probability and Bayes theorem.
 
 Webpage for Probability
-(http://classroom.gateoverflow.in/course/view.php?id=12)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=12)
 
 **September 24-30**
 
@@ -152,7 +152,7 @@ Theory of Computation: Regular expressions and finite automata. Context-free gra
 
 Webpage for Theory of Computation
 
-(http://classroom.gateoverflow.in/course/view.php?id=6)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=6)
 
 **October 1-7**
 
@@ -160,7 +160,7 @@ Databases: ER‐model. Relational model: relational algebra, tuple calculus, SQL
 
 Webpage for Databases
 
-(http://classroom.gateoverflow.in/course/view.php?id=7)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=7)
 
 **October 8-14**
 
@@ -168,7 +168,7 @@ Calculus: Limits, continuity and differentiability. Maxima and minima. Mean valu
 
 Webpage for Calculus
 
-(http://classroom.gateoverflow.in/course/view.php?id=11)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=11)
 
  
 
@@ -178,7 +178,7 @@ Compiler Design: Lexical analysis, parsing, syntax-directed translation. Runtime
 
 Webpage for Compiler Design   
 
-(http://classroom.gateoverflow.in/course/view.php?id=18)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=18)
 
  
 
@@ -188,7 +188,7 @@ Computer Organization and Architecture: Machine instructions and addressing mode
 
 Webpage for CO & Architecture
 
-(http://classroom.gateoverflow.in/course/view.php?id=3)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=3)
 
  
 
@@ -198,7 +198,7 @@ Operating System: Processes, Threads, Inter-process communication, Concurrency, 
 
 Webpage for Operating System
 
- (http://classroom.gateoverflow.in/course/view.php?id=5)
+ [Course](http://classroom.gateoverflow.in/course/view.php?id=5)
 
  
 
@@ -208,7 +208,7 @@ Operating System: Memory management and virtual memory, File systems.
 
 Webpage for Operating System
 
-(http://classroom.gateoverflow.in/course/view.php?id=5)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=5)
 
  
 
@@ -218,7 +218,7 @@ Computer Networks: Concept of layering. LAN technologies (Ethernet). Flow and er
 
 Webpage for Computer Networks
 
- (http://classroom.gateoverflow.in/course/view.php?id=13)
+ [Course](http://classroom.gateoverflow.in/course/view.php?id=13)
 
  
 
@@ -228,7 +228,7 @@ Computer Networks: Basics of Wi-Fi. Network security: authentication, basics of 
 
 Webpage for Computer Networks
 
-(http://classroom.gateoverflow.in/course/view.php?id=13)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=13)
 
  
 
@@ -238,13 +238,13 @@ Linear Algebra: Matrices, determinants, systems of linear equations, Eigen value
 
 Webpage for Linear Algebra
 
-(http://classroom.gateoverflow.in/course/view.php?id=10)
+[Course](http://classroom.gateoverflow.in/course/view.php?id=10)
 
  
 
 Revision, Solving tests
-(https://gateoverflow.in/)
-(https://classroom.gateoverflow.in/)
-(https://gatecse.in/)
+[Gate Overflow ](https://gateoverflow.in/)
+[Class Room](https://classroom.gateoverflow.in/)
+[Gate Cse](https://gatecse.in/)
 
 [Checkout here](https://gateoverflow.in/blog/5262/schedule-for-gate-2019)
