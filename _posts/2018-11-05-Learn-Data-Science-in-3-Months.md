@@ -1,5 +1,4 @@
-# Learn_Data_Science_in_3_Months
-<iframe width="400" height="250" src="https://www.youtube.com/embed/9rDhY1P3YLA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="200" src="https://www.youtube.com/embed/9rDhY1P3YLA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #### Course Objective
 
 This is the Curriculum for [Learn Data Science in 3 Months](https://youtu.be/9rDhY1P3YLA) by Siraj Raval on Youtube. After completing this course, start applying for jobs, doing contract work, start your own data science consulting group, or just keep on learning. Remember to believe in your ability to learn. You can learn data science, you will learn data science, and if you stick to it, eventually you will master it. 
