@@ -25,8 +25,8 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 # Month 1 - Data Analysis
 
 ## Week 1 - Learn Python
-- EdX https://www.edx.org/course/introduction-python-data-science-2
-- Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU 
+- EdX (https://www.edx.org/course/introduction-python-data-science-2)
+- Siraj Raval (https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
 
 ## Week 2 - Statistics & Probability
 - KhanAcademy https://www.khanacademy.org/math/statistics-probability
@@ -52,7 +52,7 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 
 ## Week 3 - Deep Learning
 - Part 1 and 2 of DL Book https://www.deeplearningbook.org/ 
-- Siraj Raval https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3 
+- Siraj Raval (https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
 
 ## Week 4 - Kaggle Project #2 
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions). Make sure to add great documentation to your github repository! Github is the new resume. 
