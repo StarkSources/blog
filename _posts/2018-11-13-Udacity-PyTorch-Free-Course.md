@@ -6,11 +6,14 @@ they can pursue the course for free at [link](https://in.udacity.com/course/deep
 
 Move on to pursue the course and start with Deep Learning in PyTorch. 
 
-All the very best !!
+All the very best !! 
+
 _FREE COURSE_
+
 **Intro to Deep Learning with PyTorch**
 byFacebook AI
-Use PyTorch to implement your first deep neural network
+Use PyTorch to implement your first deep neural network.
+
 **About this Course**
 In this course, you’ll learn the basics of deep learning, and build your own deep neural networks using PyTorch.
 You’ll get practical experience with PyTorch through coding exercises and projects implementing state-of-the-art
