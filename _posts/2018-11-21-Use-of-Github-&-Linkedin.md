@@ -12,6 +12,11 @@ and [Github](https://github.com/) .
 First what is **Linkedin**?
 
 > LinkedIn is a business and employment-oriented service that operates via websites and mobile apps. Founded on December 28, 2002, and launched on May 5, 2003, it is mainly used for professional networking, including employers posting jobs and job seekers posting their CVs.
+This is from **Wikipedia** .<br>
+But its a platform to make connections with _professionals_ , follow Companies for their Job Postings,Internships ,Learn from their Learning Solutions,**SlideShare** Platform and many more. 
+
+You can build your **Professional Resume** by adding your skills,projects,Accomplishments,Work Positions and so on..
+
 
 
 Next what is **Github**?
@@ -29,4 +34,9 @@ You can refer this link to learn basics of [Github](https://guides.github.com/ac
 
 > **Note:** _Coding_ is not required to learn Github :)) 
 
+
+Thank you for reading this post. Ignore any grammatical errors and you can make necessary corrections by commenting below.
+
+Bharath Sathuri.<br>
+[Github](https://github.com/Bharathbrothers)|[Linkedin](https://www.linkedin.com/in/bharath-kumar-goud/)
 
