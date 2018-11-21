@@ -18,10 +18,11 @@ Next what is **Github**?
 
 > GitHub Inc. is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.
 
-This is from **Wikipedia**.But in simple words,GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. Apart from this it can also be used to host your personal blogs,portfolio websites,etc.It also has Github for Education(Classrooms),Organizations and a good community.
+This is from **Wikipedia**.<br>
+But in simple words,**GitHub** is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. Apart from this it can also be used to host your personal blogs,portfolio websites,etc.It also has Github for Education(Classrooms),Organizations and a good community.
 
 _Now-a-days_ Github is used as platform to show case your projects,contributions to open source projects and Companies recruiting their employees based on their Github Profile where you can learn the abilities of an Employee.
 
-So its mandatory(Helpful) for every student to have a Github Handle and **showcase** their talent.
+So its _mandatory(Helpful)_ for every student to have a Github Handle and **showcase** their talent.
 
 
