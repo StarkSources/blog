@@ -21,8 +21,12 @@ Next what is **Github**?
 This is from **Wikipedia**.<br>
 But in simple words,**GitHub** is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. Apart from this it can also be used to host your personal blogs,portfolio websites,etc.It also has Github for Education(Classrooms),Organizations and a good community.
 
-_Now-a-days_ Github is used as platform to show case your projects,contributions to open source projects and Companies recruiting their employees based on their Github Profile where you can learn the abilities of an Employee.
+>__Now-a-days__ Github is used as platform to show case your **projects**,contributions to **open source projects** and Companies **recruiting** their employees based on their __Github Profile__ where you can learn the abilities of an Employee directly with seeing their Resume/CV.
 
 So its _mandatory(Helpful)_ for every student to have a Github Handle and **showcase** their talent.
+
+You can refer this link to learn basics of [Github](https://guides.github.com/activities/hello-world/).
+
+> **Note:** _Coding_ is not required to learn Github :)) 
 
 
