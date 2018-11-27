@@ -15,6 +15,46 @@ We Educate.<br>
 -Navin Reddy.
 
 [website](http://www.telusko.com/)
-[]()
 
-[]()
+[Derek Banas](https://www.youtube.com/user/derekbanas)
+
+You can learn all the basics in one video.
+[website](http://www.newthinktank.com/)
+
+[The New Boston](https://www.youtube.com/user/thenewboston)
+Bucky Roberts
+
+[](https://www.youtube.com/user/ProgrammingKnowledge)
+website (http://www.codebind.com/)
+
+[Jerry Banfield](https://www.youtube.com/user/dukeacem)
+[website](https://jerrybanfield.com/)
+
+[FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+[website](https://www.freecodecamp.org/)
+
+[TutorialsPoint](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg)
+
+
+[GeeksforGeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ)
+
+[CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
+[website](https://www.csdojo.io/)
+
+[Durga Software Solutions](https://www.youtube.com/user/durgasoftware)
+
+[CS 50](https://www.youtube.com/user/cs50tv)
+
+[Gradeup](https://www.youtube.com/channel/UClyn4xufkVCSryKLc7-6c5Q)
+
+[Github Guides](https://www.youtube.com/user/GitHubGuides/featured)
+
+[NPTEL](https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA)
+
+
+[ColdFusion](https://www.youtube.com/user/coldfustion/about)
+
+[Startup Stories](https://www.youtube.com/channel/UCnyQy0wD_LCZTlyFHnKIS7Q)
+
+[Business Casual](https://www.youtube.com/channel/UC_E4px0RST-qFwXLJWBav8Q)
+
