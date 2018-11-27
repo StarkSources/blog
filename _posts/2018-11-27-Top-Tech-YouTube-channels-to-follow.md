@@ -19,13 +19,14 @@ We Educate.<br>
 [Derek Banas](https://www.youtube.com/user/derekbanas)
 
 You can learn all the basics in one video.
+
 [website](http://www.newthinktank.com/)
 
 [The New Boston](https://www.youtube.com/user/thenewboston)
-Bucky Roberts
+By Bucky Roberts
 
-[](https://www.youtube.com/user/ProgrammingKnowledge)
-website (http://www.codebind.com/)
+[Programming Knowledge](https://www.youtube.com/user/ProgrammingKnowledge)
+[website](http://www.codebind.com/)
 
 [Jerry Banfield](https://www.youtube.com/user/dukeacem)
 [website](https://jerrybanfield.com/)
