@@ -51,8 +51,49 @@ website (http://www.codebind.com/)
 
 [NPTEL](https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA)
 
+[Neso Academy](https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A)
+
+[Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
+
+[Android Developers](https://www.youtube.com/user/androiddevelopers)
+
+[MIT OpenCourseWare](https://www.youtube.com/user/MIT)
+
+[Stanford](https://www.youtube.com/user/StanfordUniversity)
+
+[My Code School](https://www.youtube.com/user/mycodeschool)
+
+[Spoken Tutorial IIT Bombay](https://www.youtube.com/user/SpokenTutorialIITB?pbjreload=10)
+
+[Traversy Media ](https://www.youtube.com/user/TechGuyWeb)
+
+[Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+
+[Learn Code Academy](https://www.youtube.com/user/learncodeacademy)
+
+[NetworKing](https://www.youtube.com/channel/UCK4ji45I-zxeWXAFKmu3p6Q)
+
+[Applied AI Course](https://www.youtube.com/channel/UCJINtWke3-FMz2WuEltWDVQ/featured)
+
+[Android Hive](https://www.youtube.com/channel/UCzE_pOG_CRxqzQzCXj3fhog)
+
+[Edureka](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ)
+
+[Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
+
+[Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ)
+
+
+
+
+Some Other Channels:
+
 
 [ColdFusion](https://www.youtube.com/user/coldfustion/about)
+
+[TED](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug)
+
+[UnAcademy](https://www.youtube.com/user/unacademy)
 
 [Startup Stories](https://www.youtube.com/channel/UCnyQy0wD_LCZTlyFHnKIS7Q)
 
