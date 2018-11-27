@@ -1,4 +1,4 @@
-# Tech Channels
+### Tech Channels
 [Hitesh Chodhary](https://www.youtube.com/user/hiteshitube)
 >Hello Technology Lovers,
 Here is my Channel that will help you to learn a lot of programming languages. I have also a deep interest in Information Security. You will also find a lots of video of Information Security too.<br>- __Hitesh Choudhary__. 
