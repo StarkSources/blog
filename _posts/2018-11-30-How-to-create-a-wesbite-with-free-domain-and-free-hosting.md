@@ -22,6 +22,9 @@ Lastly, once you like how your site is looking, you can publish it, send it to t
 
 [infinity free hosting](https://infinityfree.net/)
 
+Free Unlimited Web Hosting.Completely free website hosting with unlimited disk space and bandwidth.
+<br>This Platform provides with many features to work on including features like installing apps on your website,having a free email for your domain etc.Definitely you will enjoy this.
+
 [github pages for domain and hosting](https://pages.github.com/)
 
 <iframe width="390" height="250" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
