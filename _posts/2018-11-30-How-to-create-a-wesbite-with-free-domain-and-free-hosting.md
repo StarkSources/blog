@@ -23,7 +23,7 @@ Lastly, once you like how your site is looking, you can publish it, send it to t
 [infinity free hosting](https://infinityfree.net/)
 
 Free Unlimited Web Hosting.Completely free website hosting with unlimited disk space and bandwidth.
-<br>This Platform provides with many features to work on including features like installing apps on your website,having a free email for your domain etc.Definitely you will enjoy this.
+<br>This Platform provides a Cpanel with many features to work on including features like installing apps on your website,having a free email for your domain etc.Definitely you will enjoy this.
 
 [github pages for domain and hosting](https://pages.github.com/)
 
