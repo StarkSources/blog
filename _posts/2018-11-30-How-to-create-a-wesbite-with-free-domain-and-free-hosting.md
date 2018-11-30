@@ -1,5 +1,5 @@
 
-There are many websites which provide free domains and free hosting.Most of these are useful for entry-level users.These websites all provide a premium version for Professional Users.
+There are many websites which provide free domains and free hosting.Most of these are useful for entry-level users.All These websites provide a premium version for Professional Users.
 
 > You can start your site/blog as a basic one with these free resources and then you can upgrade based on your usage if needed.
 
