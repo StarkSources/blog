@@ -21,6 +21,8 @@ Lastly, once you like how your site is looking, you can publish it, send it to t
 
 [freenom](https://www.freenom.com/en/index.html?lang=en)
 
+free domains with the above 5 extensions.
+
 
 ![INFINITY](/blog/img/infinityfree.png "INFINITY-FREE")
 
