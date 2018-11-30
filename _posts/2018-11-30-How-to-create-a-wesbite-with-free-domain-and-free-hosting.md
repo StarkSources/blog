@@ -1,1 +1,36 @@
+# websites which provide free domain and hosting.
+
+There are many websites which provide free domains and free hosting.Most of these are useful for entry-level users.These websites all provide a premium version for Professional Users.
+
+> You can start your site/blog as a basic one with these free resources and then you can upgrade based on your usage if needed.
+
+This is provided for Hostinger Platoform as an Educational Resources.This provides both a free domain and hosting. you can also install wordpress on your website using this platform.
+
+[000WEBHOST](https://www.000webhost.com/955007.html)
+
+<a href="https://www.000webhost.com/955007.html" target="_blank"><img src="https://www.000webhost.com/images/banners/300x250/1.jpg" alt="Web hosting" width="300" height="250" border="0" /></a>
+Getting started with 000webhost is incredibly easy! It’ll take just four simple steps:
+
+>First of all, you’ll need to sign up and make an account! That process can be done in a minute. The best part - anyone can sign up with 000webhost.
+Second, once you log in, you need to choose your preferred website creation tool. You can build from scratch, utilising our extensive knowledge base and community. You can use WordPress - the most popular CMS (or content management system) in the world or use our custom made website builder! A massive archive of templates, easy drag and drop functionality and more! All you need for your first website.
+Third, once you have your prefered method selected, you can get to building! This is where the fun begins. Edit templates, write code, experiment and craft! Add and adjust content, upload files, until you’re satisfied.
+Lastly, once you like how your site is looking, you can publish it, send it to the world wide web. That’s all it takes!
+
+
+[freenom](https://www.freenom.com/en/index.html?lang=en)
+
+
+[infinity free hosting](https://infinityfree.net/)
+
+[github pages for domain and hosting](https://pages.github.com/)
+
+<iframe width="390" height="250" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## For Blogs:
+
+Blogger
+Wordpress
+Medium
+Github
 
