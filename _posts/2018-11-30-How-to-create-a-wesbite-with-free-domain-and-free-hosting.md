@@ -3,7 +3,7 @@ There are many websites which provide free domains and free hosting.Most of thes
 
 > You can start your site/blog as a basic one with these free resources and then you can upgrade based on your usage if needed.
 
-This is provided for Hostinger Platoform as an Educational Resources.This provides both a free domain and hosting. you can also install wordpress on your website using this platform.
+This is provided for Hostinger Platform as an Educational Resources.This provides both a free domain and hosting. you can also install wordpress on your website using this platform.
 
 [000WEBHOST](https://www.000webhost.com/955007.html)
 
@@ -33,7 +33,7 @@ Free Unlimited Web Hosting.Completely free website hosting with unlimited disk s
 
 [github pages for domain and hosting](https://pages.github.com/)
 
-<iframe width="390" height="250" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height="250" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## For Blogs:
