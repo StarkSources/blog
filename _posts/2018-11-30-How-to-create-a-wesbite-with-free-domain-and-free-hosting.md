@@ -45,10 +45,17 @@ Free Unlimited Web Hosting.Completely free website hosting with unlimited disk s
 
 ## Some of my sites made using above resources :
 
-[Sources v1.0](sources.site90.com)
+### Edit#1 Below links are corrected.
+[Sources v1.0](http://sources.site90.com/)
 
-[Sources v2.0](starksources.github.io) 
+[Sources v2.0](http://starksources.github.io) 
 
-[SNIST HACK](snisthack.ml) 
+[SNIST HACK](http://snisthack.ml/) 
 
-[Natureunknownclicks](natureunknownclicks.ml)
+<!--[Natureunknownclicks](http://www.natureunknownclicks.ml/)-->
+
+**Note:** You have to connect your domain to hosting platform using NameServers in settings menu.Remaining steps are very easy.
+
+If you need any help, You can comment below.
+
+
