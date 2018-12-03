@@ -40,5 +40,7 @@
 
 [Build websites using Github Pages](https://pages.github.com/)
 
+[Find Freelance Jobs Online - Freelancer](https://www.freelancer.com/)
 
+[Internshala - Apply for Internships](https://internshala.com/)
 
