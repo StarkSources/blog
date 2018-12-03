@@ -48,4 +48,6 @@
 
 [Amazon-Free training,Resources and Certification](https://www.aws.training/)
 
+[FreeCodeCamp -Learn to code for free](https://www.freecodecamp.org/)
 
+[Learnvern - learn any course for free](https://www.learnvern.com/)
