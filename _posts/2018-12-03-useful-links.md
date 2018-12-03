@@ -44,3 +44,8 @@
 
 [Internshala - Apply for Internships](https://internshala.com/)
 
+### updated:
+
+[Amazon-Free training,Resources and Certification](https://www.aws.training/)
+
+
