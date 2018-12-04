@@ -51,3 +51,21 @@
 [FreeCodeCamp -Learn to code for free](https://www.freecodecamp.org/)
 
 [Learnvern - learn any course for free](https://www.learnvern.com/)
+
+[Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+
+[Microsoft Virtual Academy learn all courses for free](https://mva.microsoft.com/)
+
+[Google Developers Training](https://developers.google.com/training/)
+
+[Google Codelabs for Handson Training](https://codelabs.developers.google.com/)
+
+[Android Fundamentals Course by Google](https://codelabs.developers.google.com/android-training/)
+
+[Advanced Android Course by Google](https://codelabs.developers.google.com/advanced-android-training/)
+
+[Meetups](https://www.meetup.com/)
+
+[Mozilla's Web Development Resources](https://developer.mozilla.org/en-US/)
+
+[Mozilla's Learning](https://learning.mozilla.org/en-US/)
