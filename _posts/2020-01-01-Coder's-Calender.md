@@ -1,8 +1,8 @@
 <style>
   @media  screen and (min-width : 0px) and (max-width : 767px)  {
   iframe{
-      width: 400px;   
-    height:80%;
+      width: 300px;   
+    height:800px;
     }
 }
 </style>
