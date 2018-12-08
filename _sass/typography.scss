@@ -54,14 +54,14 @@ blockquote {
 @media (min-width: 940px) { //Breakpoint set to 940px
 
 p, ul, ol {
-	font-size: 1em; /* 18px */
-	line-height: 1.3334em; /* 24px/18px */
+	font-size: 1.3em; /* 18px */
+	line-height: 1.6em; /* 24px/18px */
 	margin-bottom: 1.3334em; /* 24px/18px */
 }
 
 h1 {
 	font-size: 2.6667em; /* 48px/18px */
-	line-height: 1em; /* 48px/48px */
+	line-height: 1.3em; /* 48px/48px */
 	padding: 0.25em 0; /* 12px/48px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 }
 
@@ -73,7 +73,7 @@ h2 {
 
 h3, h4, h5, h6 {
 	font-size: 1.3334em; /* 24px/18px */
-	line-height: 1em; /* 24px/24px */
+	line-height: 1.2em; /* 24px/24px */
 	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 }
 
