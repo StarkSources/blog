@@ -9,7 +9,10 @@ Here is my Channel that will help you to learn a lot of programming languages. I
 
 Here is an interesting story about telusko. Its an word in *Telugu* which means _to know_.
 
->Java Tutorial,C  Programming,Spring MVC for Beginners,Android,Hibernate,Network, Servlet JSP, are some of his tutorials. <br>
+>Java Tutorial,C  Programming, Spring MVC for Beginners,
+Android, Hibernate,Network, 
+Servlet JSP,are some of 
+his tutorials. <br>
 We dont Teach..<br>
 We Educate.<br>
 -Navin Reddy.
