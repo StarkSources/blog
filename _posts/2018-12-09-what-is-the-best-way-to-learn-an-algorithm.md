@@ -47,7 +47,7 @@ It supports 6 programming languages.
 <iframe width="800" height="500" frameborder="0" src="http://pythontutor.com/iframe-embed.html#code=int%20main%28%29%20%7B%0A%20%20int%20a%3D10,b%3D20%3B%0A%20%20int%20c%3B%0A%20%20c%3Da%2Bb%3B%0A%20%20printf%28%22%25d%22,%26c%29%3B%0A%20%20return%200%3B%0A%7D&codeDivHeight=400&codeDivWidth=350&curInstr=0&origin=opt-frontend.js&py=c&rawInputLstJSON=%5B%5D"> </iframe>
 
 
-#### Addnl Resources: [Teach Yourself CS](https://teachyourselfcs.com/)
+#### Additional Resources: [Teach Yourself CS](https://teachyourselfcs.com/)
 
 > All these tools helps in improving your Coding Skills along with
 Building Strong Concepts.It also helps in Competitive Programming too.
