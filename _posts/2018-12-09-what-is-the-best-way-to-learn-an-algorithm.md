@@ -17,6 +17,7 @@ but the tree-based visualizations -- BSTs and AVL Trees -- seem to work well eno
 
 It covers all the algorithms from _Sorting_ to _Traveling Sallesman._
 VisuAlgo loads fast for first time visitors, but it loads 'almost instantly' for returning visitors as we cache lots of static content of VisuAlgo :) (please do not use incognito or private browsing mode to keep the cache). Moreover, if you have registered a VisuAlgo account, we will load VisuAlgo according to your preferences after you login.
+
 ![VisuAlgo](https://visualgo.net/img/gif/sorting.gif "Sorting")
 
 [Algorithm Visualizer](https://algorithm-visualizer.org/)
