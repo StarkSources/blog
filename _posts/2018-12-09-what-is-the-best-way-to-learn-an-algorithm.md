@@ -27,7 +27,7 @@ Gitter GitHub contributors GitHub license
 
 Learning algorithms from text and static images is quite boring. There have been many great websites that view animations of various algorithms though, for us being coders, nothing can be more comprehensible than visualizing the actual working code.
 
-[[!Visualizer](https://raw.githubusercontent.com/algorithm-visualizer/algorithm-visualizer/master/branding/screenshot.png)]
+![Visualizer](https://raw.githubusercontent.com/algorithm-visualizer/algorithm-visualizer/master/branding/screenshot.png "Visualizer")
 
 [VISUALIZE CODE AND GET LIVE HELP](http://pythontutor.com/)
 
